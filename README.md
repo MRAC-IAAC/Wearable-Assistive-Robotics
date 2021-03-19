@@ -3,7 +3,7 @@
 
 
 Aim of this project was to develop a wearable assistive robotics for transferring human motion from one person to another. We focused on developing a wearable exoskeleton arm using EMG and IMU sensors.
-![alt text](\Images\poster.jpg "Poster")
+![alt text](https://github.com/MRAC-IAAC/Wearable-Assistive-Robotics/blob/main/Images/poster.jpg "Poster")
 
 
 ### Concept
