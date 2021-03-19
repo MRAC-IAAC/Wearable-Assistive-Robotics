@@ -140,6 +140,9 @@ During the whole project, we performed multiple of experiments to explore the po
 
 ![alt text](https://github.com/MRAC-IAAC/Wearable-Assistive-Robotics/blob/main/Images/Final_prototype2.jpg "Poster")
 
+**IAAC Blog Link - http://www.iaacblog.com/programs/wearable-assistive-robotics-with-emg-sensor/**
+
+
 **Wearable assistive Robotics** // H.2  is a project of IAAC, Institute for Advanced Architecture of Catalonia
 developed at **Master in Robotics and Advanced Construction** Hardware II Seminar in **2020/2021** by:
 
