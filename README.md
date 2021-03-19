@@ -140,10 +140,10 @@ During the whole project, we performed multiple of experiments to explore the po
 
 ![alt text](https://github.com/MRAC-IAAC/Wearable-Assistive-Robotics/blob/main/Images/Final_prototype2.jpg "Poster")
 
-Wearable assistive Robotics // H.2  is a project of IAAC, Institute for Advanced Architecture of Catalonia
-developed at Master in Robotics and Advanced Construction Hardware II Seminar in 2020/2021 by:
+**Wearable assistive Robotics** // H.2  is a project of IAAC, Institute for Advanced Architecture of Catalonia
+developed at **Master in Robotics and Advanced Construction** Hardware II Seminar in **2020/2021** by:
 
-Students: Charng Shin Chen, Shahar Abelson, Orestis Pavlidis, Arpan Mathe
+Students: **Charng Shin Chen, Shahar Abelson, Orestis Pavlidis, Arpan Mathe**
 
-Faculty: Óscar González
-Faculty Assistant: Antoine Jaunard
+Faculty: **Óscar González**
+Faculty Assistant: **Antoine Jaunard**
