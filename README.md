@@ -27,6 +27,7 @@ EMG sensor
 
 
 Below image for refence. As demonstrated below, the EMG sensor detects the arm movement (in this case the elbow muscle flexion) and actuates the servo motor.
+
 ![alt text](https://github.com/MRAC-IAAC/Wearable-Assistive-Robotics/blob/main/Images/1sr_prototype_git.gif "Poster")
 
 
